@@ -1,5 +1,7 @@
 # Flight fare prediction
 
+### Content
+
 #### Columns
 
 * Airline: So this column will have all the types of airlines like Indigo, Jet Airways, Air India, and many more.
