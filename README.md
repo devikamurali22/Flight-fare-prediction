@@ -1,5 +1,7 @@
 # Flight fare prediction
 
+The dataset contains the features, along with the prices of the flights. It contains 10683 records, 10 input features and 1 output column ‘Price’.The goal is to accurately predict the flight prices of various flights using machine learning models.
+
 ### Content
 
 #### Columns
